@@ -1,0 +1,1 @@
+dotnet test --project  mtp-v2/mtp-v2.csproj --coverage --coverage-output-format cobertura --coverage-output coverage.cobertura.xml    
