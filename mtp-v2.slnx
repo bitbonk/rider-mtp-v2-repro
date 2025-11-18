@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
+  <Project Path="mtp-v2/mtp-v2.csproj" />
+</Solution>

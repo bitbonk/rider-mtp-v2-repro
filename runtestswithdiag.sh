@@ -1,0 +1,1 @@
+dotnet test --diagnostic --diagnostic-output-directory ./diag 
